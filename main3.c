@@ -1,4 +1,4 @@
-
+//MEDIA ARITMETICA - PROGRAMAÇÃO (03/40)
 #include <stdio.h>
 
 int main()
