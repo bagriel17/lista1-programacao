@@ -1,17 +1,19 @@
-//SOMA - PROGRAMÇÃO (01/40)
+//CALCULO DE AREA RETANGULO - PROGRAMAÇÃO (04/40)
+
 #include <stdio.h>
 
 int main()
 {
-	int num1, num2, sum;
+	int num1, num2, area;
 
-	printf("Selecione o primeiro digito: ");
+	printf("Digite a base do retangulo: \n");
 	scanf("%d", &num1);
-	printf("Selecione o segundo digito: ");
+	printf("Digite a altura do retangulo: \n");
 	scanf("%d", &num2);
-	sum = num1 + num2;
+	
+	area = num1 * num2;
 
-	printf("A soma e) %d + %d = %d", num1, num2, sum);
+	printf("A área é %d * %d = %d", num1, num2, area);
 
 	return 0;
 }
