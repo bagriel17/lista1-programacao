@@ -1,4 +1,4 @@
-//CALCULO DE PERIMETRO CIRCULO - PROGRAMAÇÃO (06/40)
+//CALCULO DE PERIMETRO CIRCULO - PROGRAMAÇÃO (07/40)
 
 #include <stdio.h>
 #include <locale.h>
