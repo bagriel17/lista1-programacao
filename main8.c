@@ -1,4 +1,4 @@
-//CALCULO DE FARENHEIT - PROGRAMAÇÃO (08/40)
+//CALCULO DE CELSIUS PARA FAHRENHEIT - PROGRAMAÇÃO (08/40)
 
 #include <stdio.h>
 #include <locale.h>
@@ -10,7 +10,7 @@ int main()
     
 	int celsius, fahrenheit;
 	
-	printf("Digite a temperatura que deseja converter:  \n");
+	printf("Digite a temperatura em celsius que deseja converter:  \n");
 	scanf("%d", &celsius);
 	
 	fahrenheit = celsius * 9/5 + 32;
