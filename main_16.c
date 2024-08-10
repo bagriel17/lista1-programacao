@@ -1,4 +1,4 @@
-//CONVERSÃO HORA PARA MINUTOS - PROGRAMAÇÃO (15/40)
+//CONVERSÃO MINUTOS PARA SEGUNDOS - PROGRAMAÇÃO (16/40)
 
 #include <stdio.h>
 #include <locale.h>
